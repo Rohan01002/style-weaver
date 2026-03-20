@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
     font-family: 'Segoe UI', sans-serif;
     background: linear-gradient(135deg, #1e1e2f, #3a3a6a);
@@ -50,4 +51,26 @@ button:hover {
 
 #result {
     margin-top: 20px;
+=======
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background: linear-gradient(to right, #1e1e2f, #2c2c54);
+    color: white;
+    margin: 0;
+}
+
+.container {
+    max-width: 500px;
+    margin: 100px auto;
+    padding: 20px;
+    text-align: center;
+    background: rgba(255,255,255,0.1);
+    border-radius: 15px;
+}
+
+button {
+    padding: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+>>>>>>> 10d330ce7b9ea72b2b08186ca872dc8cc24a7d81
 }
